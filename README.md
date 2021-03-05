@@ -1,7 +1,13 @@
-## Welcome to 3ln
+## Welcome to SwerveTech
 
 https://github.com/3ln
 
-So far we have 2 members.
+There are 2 members in our team.
 
-We are working on a project called pycon right now.
+  _________                               ___________           .__     
+ /   _____/_  _  __ ______________  __ ___\__    ___/___   ____ |  |__  
+ \_____  \\ \/ \/ // __ \_  __ \  \/ // __ \|    |_/ __ \_/ ___\|  |  \ 
+ /        \\     /\  ___/|  | \/\   /\  ___/|    |\  ___/\  \___|   Y  \
+/_______  / \/\_/  \___  >__|    \_/  \___  >____| \___  >\___  >___|  /
+        \/             \/                 \/           \/     \/     \/ 
+        
